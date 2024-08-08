@@ -1,0 +1,26 @@
+{
+    "name": "Chartboost.Mediation.AppLovin.Android",
+    "rootNamespace": "Chartboost.Mediation.AppLovin.Android",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.AppLovin",
+        "Chartboost.Mediation",
+        "Chartboost.Mediation.Android",
+        "Chartboost.Utilities.Android"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
