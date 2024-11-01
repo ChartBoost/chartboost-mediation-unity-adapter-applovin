@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.applovin",
-    "version": "5.0.0",
+    "version": "5.2.0",
     "displayName": "Chartboost Mediation Adapter - AppLovin",
     "description": "The Chartboost Mediation Unity SDK Adapter for AppLovin.",
     "unity": "2022.3",
