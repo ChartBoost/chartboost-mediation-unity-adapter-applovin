@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Chartboost.CSharp.Mediation.Unity.Adapter.AppLovin</id>
-    <version>5.0.0</version>
+    <version>5.1.0</version>
     <title>Chartboost Mediation Adapter - AppLovin</title>
     <description>The Chartboost Mediation Unity SDK Adapter for AppLovin.</description>
     <authors>Chartboost</authors>
