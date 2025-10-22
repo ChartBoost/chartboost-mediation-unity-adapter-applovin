@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.3.3 *(2025-07-16)*
+This version of the AppLovin Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-applovin:5.13.3.+`
+  * iOS: `ChartboostMediationAdapterAppLovin: ~> 5.13.0.0`
+
 ### Version 5.3.2 *(2025-06-02)*
 This version of the AppLovin Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-applovin:5.13.2.+`

@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - AppLovin Adapter to your pr
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.applovin": "5.3.2",
+    "com.chartboost.mediation.unity.adapter.applovin": "5.3.3",
     ...
 },
 "scopedRegistries": [
