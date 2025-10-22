@@ -6,9 +6,9 @@
   </androidPackages>
   <iosPods>
     <!-- iOS Adapter -->
-    <iosPod name="ChartboostMediationAdapterAppLovin" version="~> 5.13.0.0"/>
+    <iosPod name="ChartboostMediationAdapterAppLovin" version="~> 5.13.3.0"/>
 
     <!-- Partner iOS SDK-->
-    <iosPod name="AppLovinSDK" version="~> 13.0.0" addToAllTargets="true"/>
+    <iosPod name="AppLovinSDK" version="~> 13.3.0" addToAllTargets="true"/>
   </iosPods>
 </dependencies>
