@@ -13,7 +13,7 @@ namespace Chartboost.Mediation.AppLovin
         /// <summary>
         /// The partner adapter Unity version.
         /// </summary>
-        public const string AdapterUnityVersion = "5.3.9";
+        public const string AdapterUnityVersion = "5.3.10";
         
         /// <inheritdoc cref="IPartnerAdapterConfiguration.AdapterNativeVersion"/>
         public static string AdapterNativeVersion => Instance.AdapterNativeVersion;
