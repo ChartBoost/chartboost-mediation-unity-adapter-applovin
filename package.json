@@ -1,6 +1,7 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.applovin",
-    "version": "5.3.8",
+    "version": "5.3.9",
+    "license": "MIT",
     "displayName": "Chartboost Mediation Adapter - AppLovin",
     "description": "The Chartboost Mediation Unity SDK Adapter for AppLovin.",
     "unity": "2022.3",
@@ -8,12 +9,19 @@
     "changelogUrl": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-applovin/blob/main/CHANGELOG.md",
     "licensesUrl": "https://docs.chartboost.com/en/legal/",
     "dependencies": {
-        "com.chartboost.mediation" : "5.0.0",
+        "com.chartboost.mediation": "5.0.0",
         "com.chartboost.unity.threading": "1.0.1",
         "com.chartboost.unity.utilities": "1.0.1",
         "com.chartboost.unity.logging": "1.0.0"
     },
-    "keywords": ["Chartboost", "Mediation", "Adapter", "Unity", "AppLovin"],
+    "keywords": [
+        "Chartboost",
+        "Mediation",
+        "Adapter",
+        "Unity",
+        "AppLovin"
+    ],
+    "homepage": "https://chartboost.com",
     "author": {
         "name": "Chartboost",
         "email": "sales@chartboost.com",
@@ -21,7 +29,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-applovin.git"
+        "url": "git+https://github.com/ChartBoost/chartboost-mediation-unity-adapter-applovin.git"
     },
     "bugs": {
         "url": "https://github.com/ChartBoost/chartboost-mediation-unity-adapter-applovin/issues",
